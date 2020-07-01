@@ -1,0 +1,13 @@
+C:\Users\biondil\source\repos\DegreesFromKevinBacon\DegreesFromKevinBacon\bin\Debug\netcoreapp3.1\DegreesFromKevinBacon.exe
+C:\Users\biondil\source\repos\DegreesFromKevinBacon\DegreesFromKevinBacon\bin\Debug\netcoreapp3.1\DegreesFromKevinBacon.deps.json
+C:\Users\biondil\source\repos\DegreesFromKevinBacon\DegreesFromKevinBacon\bin\Debug\netcoreapp3.1\DegreesFromKevinBacon.runtimeconfig.json
+C:\Users\biondil\source\repos\DegreesFromKevinBacon\DegreesFromKevinBacon\bin\Debug\netcoreapp3.1\DegreesFromKevinBacon.runtimeconfig.dev.json
+C:\Users\biondil\source\repos\DegreesFromKevinBacon\DegreesFromKevinBacon\bin\Debug\netcoreapp3.1\DegreesFromKevinBacon.dll
+C:\Users\biondil\source\repos\DegreesFromKevinBacon\DegreesFromKevinBacon\bin\Debug\netcoreapp3.1\DegreesFromKevinBacon.pdb
+C:\Users\biondil\source\repos\DegreesFromKevinBacon\DegreesFromKevinBacon\obj\Debug\netcoreapp3.1\DegreesFromKevinBacon.csprojAssemblyReference.cache
+C:\Users\biondil\source\repos\DegreesFromKevinBacon\DegreesFromKevinBacon\obj\Debug\netcoreapp3.1\DegreesFromKevinBacon.AssemblyInfoInputs.cache
+C:\Users\biondil\source\repos\DegreesFromKevinBacon\DegreesFromKevinBacon\obj\Debug\netcoreapp3.1\DegreesFromKevinBacon.AssemblyInfo.cs
+C:\Users\biondil\source\repos\DegreesFromKevinBacon\DegreesFromKevinBacon\obj\Debug\netcoreapp3.1\DegreesFromKevinBacon.dll
+C:\Users\biondil\source\repos\DegreesFromKevinBacon\DegreesFromKevinBacon\obj\Debug\netcoreapp3.1\DegreesFromKevinBacon.pdb
+C:\Users\biondil\source\repos\DegreesFromKevinBacon\DegreesFromKevinBacon\obj\Debug\netcoreapp3.1\DegreesFromKevinBacon.genruntimeconfig.cache
+C:\Users\biondil\source\repos\DegreesFromKevinBacon\DegreesFromKevinBacon\obj\Debug\netcoreapp3.1\DegreesFromKevinBacon.csproj.CoreCompileInputs.cache
